@@ -8,5 +8,6 @@ int main(void)
 	{
 		printf("*");
 	}
+	printf("Github Desktop");
 	return 0;
 }
